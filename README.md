@@ -1,3 +1,15 @@
-# rf-react-counter-phcgb6
+# React Counter Component
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rf-react-counter-phcgb6)
+Mini component to study react programming language basics.
+
+### Pre requisites
+
+```
+  "react": "^16.9.0",
+  "react-dom": "^16.9.0"
+
+```
+
+## Author
+
+* **Rafael Figueiredo** - [GitHub](https://github.com/rafaelfigueiredo-l)
